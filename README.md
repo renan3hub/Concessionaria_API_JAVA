@@ -1,0 +1,1 @@
+Projeto desenvolvido em Java utilizando Spring Boot para gerenciamento de veículos de uma concessionária. A aplicação implementa um CRUD completo (Create, Read, Update e Delete) permitindo cadastrar, consultar, atualizar e remover carros por meio de uma API REST.
